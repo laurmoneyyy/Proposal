@@ -2,11 +2,11 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+GreenSum Mobile App 
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+The mobile app allows users to buy plants and get them delivered to their house. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
